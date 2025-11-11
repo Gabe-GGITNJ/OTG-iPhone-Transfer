@@ -9,3 +9,9 @@ So I grabbed my USB Thumb Drive and my adapter
 
 <img width="281" height="339" alt="image" src="https://github.com/user-attachments/assets/7c193a13-c9c1-4e06-acd1-cdefa5b5c1fd" />
 
+## Features
+
+## Equipment Used 
+
+## Usage
+
