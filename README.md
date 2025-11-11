@@ -1,7 +1,8 @@
 # OTG-iPhone-Transfer
 Manually Transferring Photos
 
-Overview
+## Overview
+
 I misplaced my data transfer cable and needed a way to backup my pictures on my iPhone
 I also didn’t want to upload to the cloud since it would take while using data. And the WiFi that was available was for public use and not very safe. 
 So I grabbed my USB Thumb Drive and my adapter
