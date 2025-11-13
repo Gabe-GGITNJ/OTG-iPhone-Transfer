@@ -14,8 +14,8 @@ This allows you to manaully transfer photos and other files to a USB Thumbdrive.
 
 ## Equipment Used 
 
-16GB Lexar Thumbdrive 
-iphone lightening to usb adapter
+16GB Lexar Thumbdrive & 
+iPhone lightening to usb adapter
 
 ## Usage
 
