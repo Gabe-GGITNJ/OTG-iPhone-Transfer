@@ -1,4 +1,4 @@
-# OTG-iPhone-Photo Transfer
+# OTG-iPhone-Photo & File Transfer
 Manually Transferring Photos
 
 ## Overview
